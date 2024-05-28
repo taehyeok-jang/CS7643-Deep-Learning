@@ -1,1 +1,1 @@
-# CS7643-Deep-Learning
+# CS 7643: Deep Learning
